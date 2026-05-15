@@ -108,6 +108,9 @@ make clean
 make help
 ```
 ![Пример](screen/1.png)
+![Пример](screen/2.png)
+![Пример](screen/3.png)
+![Пример](screen/4.png)
 
 
 
