@@ -106,5 +106,8 @@ make clean
 
 # Справка по всем командам
 make help
+```
+![Пример](screen/1.png)
+
 
 
